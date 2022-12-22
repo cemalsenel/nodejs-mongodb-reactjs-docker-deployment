@@ -1,0 +1,1 @@
+NodeJS, ReactJS and MongoDB application is deployed by Docker Containers
